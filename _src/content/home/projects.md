@@ -11,7 +11,7 @@ weight: 165
 
 active: true
 
-title: Activities
+title: Conference Support
 subtitle: ''
 
 content:
