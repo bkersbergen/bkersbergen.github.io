@@ -1,5 +1,5 @@
 ---
-title: 2020 IEEE European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 
+title: 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 
 summary:  Session chair at ECML-PKDD 2020
 tags:
 - ECML-PKDD
