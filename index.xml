@@ -128,6 +128,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>EDBT 2022 Conference (EDBT2022)</title>
+      <link>https://bkersbergen.github.io/project/edbt2022/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/project/edbt2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2021 IEEE International Conference on Data Science and Advanced Analytics (DSAA2021)</title>
       <link>https://bkersbergen.github.io/project/dsaa2021/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
@@ -256,7 +264,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-632578914&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-431985762&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -266,7 +274,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-632578914&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-431985762&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

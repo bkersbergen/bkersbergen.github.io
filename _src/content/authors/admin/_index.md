@@ -72,5 +72,5 @@ email: ""
 highlight_name: false
 ---
 
-I'm a data scientist working at bol.com where I designed and created the recommendation and personalisation systems for bol.com over the past decade.
-In the beginning of 2021 I also started as a PhD candidate at the University of Amsterdam. My research interests include large scale recommender systems.
+I'm a data scientist working at bol.com where I designed and created the recommendation and personalisation systems for bol.com for more than a decade. 
+In January 2021 I started as a PhD candidate at the University of Amsterdam in the AI for retail lab (AIRLab). My research interests include large scale recommender systems.

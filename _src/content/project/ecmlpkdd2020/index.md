@@ -1,6 +1,6 @@
 ---
 title: 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 
-summary:  Session chair at ECML-PKDD 2020
+summary:  Session chair
 tags:
 - ECML-PKDD
 date: "2020-09-14T00:00:00Z"
