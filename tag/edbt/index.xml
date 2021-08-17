@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDBT | barrie kersbergen</title>
+    <link>https://bkersbergen.github.io/tag/edbt/</link>
+      <atom:link href="https://bkersbergen.github.io/tag/edbt/index.xml" rel="self" type="application/rss+xml" />
+    <description>EDBT</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bkersbergen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>EDBT</title>
+      <link>https://bkersbergen.github.io/tag/edbt/</link>
+    </image>
+    
+    <item>
+      <title>EDBT 2022 Conference (EDBT2022)</title>
+      <link>https://bkersbergen.github.io/project/edbt2022/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/project/edbt2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
