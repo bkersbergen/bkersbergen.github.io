@@ -12,28 +12,25 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bkersbergen.github.io/</loc>
-    <lastmod>2021-11-14T12:28:37+01:00</lastmod>
+    <lastmod>2021-11-09T18:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://bkersbergen.github.io/talk/newtalku/</loc>
-    <lastmod>2021-11-14T12:28:37+01:00</lastmod>
+    <loc>https://bkersbergen.github.io/tag/caiml-#21-recommender-systems/</loc>
+    <lastmod>2021-11-09T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/talk/meetup-caiml-21-recommender-systems/</loc>
+    <lastmod>2021-11-09T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://bkersbergen.github.io/event/</loc>
-    <lastmod>2021-11-14T12:28:37+01:00</lastmod>
-  </url><url>
-    <loc>https://bkersbergen.github.io/tag/caiml/</loc>
-    <lastmod>2021-11-09T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bkersbergen.github.io/talk/caiml/</loc>
-    <lastmod>2021-11-09T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bkersbergen.github.io/post/caiml21/</loc>
-    <lastmod>2021-11-09T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bkersbergen.github.io/post/</loc>
     <lastmod>2021-11-09T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://bkersbergen.github.io/tags/</loc>
     <lastmod>2021-11-09T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/talk/bol.com-techlab-podcast/</loc>
+    <lastmod>2021-11-03T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/tag/techlab-podpcast/</loc>
+    <lastmod>2021-11-03T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bkersbergen.github.io/tag/edbt/</loc>
     <lastmod>2021-08-17T00:00:00+00:00</lastmod>
@@ -77,6 +74,30 @@
     <loc>https://bkersbergen.github.io/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://bkersbergen.github.io/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bkersbergen.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bkersbergen.github.io/project/ecmlpkdd2020/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -96,7 +117,5 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bkersbergen.github.io/admin/</loc>
-  </url><url>
-    <loc>https://bkersbergen.github.io/categories/</loc>
   </url>
 </urlset>
