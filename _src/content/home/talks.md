@@ -6,10 +6,10 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 570
+weight: 70
 
 title: 'Recent & Upcoming Talks'
 subtitle:

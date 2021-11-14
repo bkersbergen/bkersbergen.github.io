@@ -5,7 +5,7 @@
     <link>https://bkersbergen.github.io/event/</link>
       <atom:link href="https://bkersbergen.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Nov 2021 12:28:37 +0100</lastBuildDate>
     <image>
       <url>https://bkersbergen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://bkersbergen.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://bkersbergen.github.io/talk/example-talk/</guid>
+      <title>Newtalku</title>
+      <link>https://bkersbergen.github.io/talk/newtalku/</link>
+      <pubDate>Sun, 14 Nov 2021 12:28:37 +0100</pubDate>
+      <guid>https://bkersbergen.github.io/talk/newtalku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAIML</title>
+      <link>https://bkersbergen.github.io/talk/caiml/</link>
+      <pubDate>Tue, 09 Nov 2021 18:30:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/talk/caiml/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
