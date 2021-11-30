@@ -1,6 +1,6 @@
 ---
 title: "DBDBD 2021 Workshop"
-summary:  At this workshop we will present our work done together with Olivier Sprangers and Sebastian Schelter.
+summary:  At this workshop we will present our work done together with Olivier Sprangers and Sebastian Schelter on low latency recommendations.
 tags:
 - "dbdbd2021"
 date: "2021-12-06T10:00:00Z"
