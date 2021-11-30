@@ -1,6 +1,6 @@
 ---
-title: "DBDBD 2021"
-summary:  The Dutch-Belgian DataBase Day (DBDBD) is a yearly one-day workshop, this year organized by the TU-Delft. We will present our work on low latency recommendations.
+title: "DBDBD 2021 Workshop"
+summary:  We will present our work on low latency recommendations.
 tags:
 - "dbdbd2021"
 date: "2021-12-06T10:00:00Z"
