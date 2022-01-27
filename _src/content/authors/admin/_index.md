@@ -72,5 +72,4 @@ email: ""
 highlight_name: false
 ---
 
-In my role as data scientist at bol.com I have been working on designing and creating the recommendation and personalisation systems for bol.com for more than a decade.  
-In January 2021 I started as a PhD candidate at the University of Amsterdam in the AI for retail lab (AIRLab). My research interests include large scale recommender systems.
+Barrie Kersbergen joined bol.com in 2010 as a data scientist. His main focus is solving business problems by improving processes with scalable recommendation systems. Examples of his work are the recommendation systems ‘others also viewed’, ‘often bought together’, ‘look further’, ‘visual recommendations’ and ‘search ranking’ functionality, that serve millions of items to millions of customers. In January 2021, he started as an external PhD candidate at the University of Amsterdam in the “AI for Retail Lab” where he conducts research on scaling up algorithms for session based recommendation to industry workloads. 
