@@ -1,0 +1,2 @@
+hugo version
+hugo v0.82.0-9D960784+extended windows/amd64 BuildDate=2021-03-21T17:28:04Z VendorInfo=gohugoio
