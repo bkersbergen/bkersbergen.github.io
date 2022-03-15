@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ecir22 | barrie kersbergen</title>
+    <link>https://bkersbergen.github.io/tag/ecir22/</link>
+      <atom:link href="https://bkersbergen.github.io/tag/ecir22/index.xml" rel="self" type="application/rss+xml" />
+    <description>ecir22</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Apr 2022 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bkersbergen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>ecir22</title>
+      <link>https://bkersbergen.github.io/tag/ecir22/</link>
+    </image>
+    
+    <item>
+      <title>ECIR’22</title>
+      <link>https://bkersbergen.github.io/talk/ecir22/</link>
+      <pubDate>Sat, 16 Apr 2022 10:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/talk/ecir22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
