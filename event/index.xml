@@ -5,12 +5,20 @@
     <link>https://bkersbergen.github.io/event/</link>
       <atom:link href="https://bkersbergen.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Apr 2022 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jun 2022 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bkersbergen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://bkersbergen.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>SIGMOD&#39;22</title>
+      <link>https://bkersbergen.github.io/talk/sigmod22/</link>
+      <pubDate>Sun, 12 Jun 2022 10:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/talk/sigmod22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ECIR’22</title>

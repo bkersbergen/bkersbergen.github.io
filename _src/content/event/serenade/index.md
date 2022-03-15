@@ -1,6 +1,6 @@
 ---
 title: "Open sourced Serenade"
-summary:  We published the source-code of Serenade. "Serenade" is a kNN-based recommender system written in Rust, powering millions of product recommendations at bol.com as part of our Sigmod'22 paper.
+summary:  We published the source-code of Serenade. "Serenade" is a kNN-based recommender system written in Rust, powering millions of product recommendations at bol.com.
 tags:
 - "serenade"
 date: "2022-02-28T10:00:00Z"

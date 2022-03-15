@@ -24,8 +24,9 @@ publication_short: "(SIGMOD)"
 
 
 
+
 links:
-#url_pdf: 'https://ssc.io/pdf/bol-reco.pdf'
+url_pdf: 'https://ssc.io/pdf/modds003.pdf'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -43,5 +44,6 @@ links:
 
 
 ---
+
 
 
