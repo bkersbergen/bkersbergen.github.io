@@ -5,12 +5,20 @@
     <link>https://bkersbergen.github.io/author/sebastian-schelter/</link>
       <atom:link href="https://bkersbergen.github.io/author/sebastian-schelter/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Schelter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bkersbergen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Sebastian Schelter</title>
       <link>https://bkersbergen.github.io/author/sebastian-schelter/</link>
     </image>
+    
+    <item>
+      <title>Serving Low-Latency Session-Based Recommendations at bol.com</title>
+      <link>https://bkersbergen.github.io/publication/serving-low-latency-sbr-at-bolcom-ecir2022/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/publication/serving-low-latency-sbr-at-bolcom-ecir2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Serenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale</title>

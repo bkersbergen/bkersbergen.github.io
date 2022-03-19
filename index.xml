@@ -132,6 +132,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Serving Low-Latency Session-Based Recommendations at bol.com</title>
+      <link>https://bkersbergen.github.io/publication/serving-low-latency-sbr-at-bolcom-ecir2022/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/publication/serving-low-latency-sbr-at-bolcom-ecir2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Guest lecture &#39;verder kijken&#39; Recommendations</title>
       <link>https://bkersbergen.github.io/talk/guest-lecture-verder-kijken-recommendations/</link>
       <pubDate>Mon, 17 Jan 2022 16:00:00 +0000</pubDate>
@@ -316,7 +324,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-724953186&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-423861597&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -326,7 +334,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-724953186&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-423861597&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
