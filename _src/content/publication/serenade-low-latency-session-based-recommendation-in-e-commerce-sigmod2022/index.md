@@ -5,7 +5,7 @@ authors:
 - Olivier Sprangers
 - Sebastian Schelter
 date: "2022-01-01T00:00:00Z"
-# doi: "10.1109/ICDE51399.2021.00277"
+doi: "10.1145/3514221.3517901"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-02-01T00:00:00Z"
@@ -33,7 +33,7 @@ url_code: 'https://github.com/bolcom/serenade'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: 'https://www.youtube.com/watch?v=0o4VwF0YqUg'
+url_video: 'https://www.youtube.com/watch?v=Nvd61sTeIAY'
 
 
 # Associated Projects (optional).
