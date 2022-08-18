@@ -26,7 +26,7 @@ publication_short: "(ECIR, industry talk)"
 
 
 links:
-#url_pdf: 'https://github.com/bolcom/serenade'
+url_pdf: 'https://ssc.io/pdf/serenade-ecir.pdf'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
