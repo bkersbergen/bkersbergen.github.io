@@ -5,12 +5,28 @@
     <link>https://bkersbergen.github.io/event/</link>
       <atom:link href="https://bkersbergen.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jun 2022 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 11:30:00 +0000</lastBuildDate>
     <image>
       <url>https://bkersbergen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://bkersbergen.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Poster session ICAI Day: AI &amp; Climate Change</title>
+      <link>https://bkersbergen.github.io/talk/poster-session-icai-day-ai-climate-change/</link>
+      <pubDate>Wed, 16 Nov 2022 11:30:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/talk/poster-session-icai-day-ai-climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest Lecture at the Tilburg University</title>
+      <link>https://bkersbergen.github.io/talk/guest-lecture-at-the-tilburg-university/</link>
+      <pubDate>Fri, 04 Nov 2022 11:30:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/talk/guest-lecture-at-the-tilburg-university/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SIGMOD&#39;22</title>
