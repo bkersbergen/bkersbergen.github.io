@@ -5,12 +5,20 @@
     <link>https://bkersbergen.github.io/event/</link>
       <atom:link href="https://bkersbergen.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 11:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bkersbergen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://bkersbergen.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Guest Lecture for the Masters students Econometrics at University of Amsterdam</title>
+      <link>https://bkersbergen.github.io/talk/guest-lecture-for-the-masters-students-econometrics-at-university-of-amsterdam/</link>
+      <pubDate>Wed, 26 Apr 2023 11:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/talk/guest-lecture-for-the-masters-students-econometrics-at-university-of-amsterdam/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Poster session ICAI Day: AI &amp; Climate Change</title>
@@ -73,14 +81,6 @@
       <link>https://bkersbergen.github.io/talk/guest-lecture-verder-kijken-recommendations/</link>
       <pubDate>Mon, 17 Jan 2022 16:00:00 +0000</pubDate>
       <guid>https://bkersbergen.github.io/talk/guest-lecture-verder-kijken-recommendations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DBDBD 2021 Workshop</title>
-      <link>https://bkersbergen.github.io/talk/dbdbd-2021-workshop/</link>
-      <pubDate>Mon, 06 Dec 2021 10:00:00 +0000</pubDate>
-      <guid>https://bkersbergen.github.io/talk/dbdbd-2021-workshop/</guid>
       <description></description>
     </item>
     
