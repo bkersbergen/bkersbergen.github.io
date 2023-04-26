@@ -1,6 +1,6 @@
 ---
 title: "Guest Lecture for the Masters students Econometrics at University of Amsterdam"
-summary:  A guest lecture on self supervised contrastive learning on often-bought-together recommendations.
+summary:  A guest lecture on self-supervised contrastive-learning for product recommendations.
 tags:
 - "guest lecture"
 date: "2023-04-26T11:00:00Z"
