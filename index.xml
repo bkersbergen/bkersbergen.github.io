@@ -5,12 +5,20 @@
     <link>https://bkersbergen.github.io/</link>
       <atom:link href="https://bkersbergen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>barrie kersbergen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bkersbergen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>barrie kersbergen</title>
       <link>https://bkersbergen.github.io/</link>
     </image>
+    
+    <item>
+      <title>2023 IEEE International Conference on Data Science and Advanced Analytics (DSAA2023)</title>
+      <link>https://bkersbergen.github.io/project/dsaa2023/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/project/dsaa2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Guest Lecture for the Masters students Econometrics at University of Amsterdam</title>
