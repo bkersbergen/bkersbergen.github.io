@@ -5,12 +5,20 @@
     <link>https://bkersbergen.github.io/project/</link>
       <atom:link href="https://bkersbergen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bkersbergen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://bkersbergen.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>32nd ACM International Conference on Information and Knowledge Management (CIKM2023)</title>
+      <link>https://bkersbergen.github.io/project/cikm2023/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/project/cikm2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2023 IEEE International Conference on Data Science and Advanced Analytics (DSAA2023)</title>
