@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>big data course | barrie kersbergen</title>
+    <link>https://bkersbergen.github.io/tag/big-data-course/</link>
+      <atom:link href="https://bkersbergen.github.io/tag/big-data-course/index.xml" rel="self" type="application/rss+xml" />
+    <description>big data course</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bkersbergen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>big data course</title>
+      <link>https://bkersbergen.github.io/tag/big-data-course/</link>
+    </image>
+    
+    <item>
+      <title>teaching assistent for big data course at uva for master students</title>
+      <link>https://bkersbergen.github.io/talk/teaching-assistent-for-big-data-course-at-uva-for-master-students/</link>
+      <pubDate>Mon, 03 Jan 2022 10:00:00 +0000</pubDate>
+      <guid>https://bkersbergen.github.io/talk/teaching-assistent-for-big-data-course-at-uva-for-master-students/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
