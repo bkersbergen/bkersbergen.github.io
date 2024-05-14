@@ -29,7 +29,7 @@ abstract: Session-based recommendation (SBR) targets a core scenario in e-Commer
 
 
 links:
-url_pdf: 'https://ssc.io/pdf/etude-icde.pdf'
+url_pdf: 'https://github.com/bkersbergen/etudelib/blob/main/_ICDE_24____Etude.pdf'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
