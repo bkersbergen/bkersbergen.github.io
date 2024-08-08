@@ -1,6 +1,6 @@
 ---
 title: 2023 IEEE International Conference on Data Science and Advanced Analytics (DSAA2023)
-summary:  Research PC
+summary:  Research Track Program Committee member
 tags:
 - DSAA
 date: "2023-06-10T00:00:00Z"

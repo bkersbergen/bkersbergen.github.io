@@ -1,6 +1,6 @@
 ---
 title: 2021 IEEE International Conference on Data Science and Advanced Analytics (DSAA2021)
-summary:  Program Committee member of the Industry Track
+summary:  Industry Track Program Committee member
 tags:
 - DSAA
 date: "2021-04-10T00:00:00Z"
