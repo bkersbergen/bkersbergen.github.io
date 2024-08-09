@@ -31,7 +31,7 @@ marketing:
 
 header:
   navbar:
-    enable: true
+    enable: false 
     align: l
     show_logo: true
     show_language: false
