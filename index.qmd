@@ -8,7 +8,8 @@ Hi, I’m **Dr. Barrie Kersbergen**, a Staff Scientist at Bol and researcher wor
 
 Welcome to my academic website, here you’ll find my publications, talks, and open-source projects.
 
-My PhD focused on scalable and eco-friendly session-based recommendation, addressing key challenges in accuracy, latency, resource efficiency, and data quality.
-In close collaboration with Bol, UvA, TU Berlin, and AIRLab, I developed practical methods for deploying recommender systems at scale, from enhancing nearest-neighbor algorithms, to benchmarking deep learning models under production constraints, to debugging datasets with millions of interactions using Shapley values.
+My PhD research expanded the boundaries of scalable session-based recommendation systems for large-scale e-commerce, addressing practical challenges like massive product catalogs, billions of interactions, sparse behavior data, and data quality issues. Conducted in close collaboration with Bol, a leading European e-commerce platform, this work bridges academic research and real-world deployment.
 
-My broader research interests include data-centric AI, eco-efficient machine learning, and game-theoretic approaches to model diagnostics, always with a focus on bridging academic innovation with real-world impact.
+In my dissertation, _Expanding Boundaries in Scalable Session-Based Recommendations_, I demonstrate that nearest-neighbor methods can rival or even outperform deep learning models on large-scale datasets, especially under production constraints. I developed scalable algorithms for low-latency inference, robust benchmarking under resource limits, and efficient data debugging using Shapley values for data attribution.
+
+This research delivered impactful solutions for large-scale recommender systems and laid the groundwork for more sustainable, efficient, and trustworthy recommendation technologies in practice.
