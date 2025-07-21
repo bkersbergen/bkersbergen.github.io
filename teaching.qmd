@@ -1,0 +1,6 @@
+---
+title: "Teaching and Outreach"
+---
+
+- Invited talk on AI and Recommender Systems at Bol internal conference
+- Guest teaching at University of Amsterdam on interpretability in ML

@@ -1,0 +1,49 @@
+---
+title: "Publications"
+---
+
+1. **Scalable Data Debugging for Neighborhood-based Recommendation with Data Shapley Values**    
+_ACM RecSys 2025 (Spotlight Oral)_  
+B. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter  
+[![](images/icons/file.svg){width=18px} PDF](pdfs/scalable_shapley_recsys2025.pdf)
+[![](images/icons/code.svg){width=18px} Code](https://github.com/bkersbergen/illoominate)
+<!-- [![](images/icons/video.svg){width=18px} Video](https://youtube.com/watch?v=abc123xyz) -->
+
+
+2. **ETUDE - Evaluating the Inference Latency of Session-Based Models at Scale**  
+   _IEEE ICDE 2024_  
+   B. Kersbergen, O. Sprangers, F. Kootte, S. Guha, M. de Rijke, S. Schelter  
+[![](images/icons/file.svg){width=18px} PDF](pdfs/etude_icde2024.pdf)
+[![](images/icons/code.svg){width=18px} Code](https://github.com/bkersbergen/etudelib)
+<!-- [![](images/icons/video.svg){width=18px} Video](https://youtube.com/watch?v=abc123xyz) -->
+
+
+3. **Serving Low-Latency Session-Based Recommendations at bol.com**  
+   _ECIR 2022 (industry talk)_  
+   B. Kersbergen, O. Sprangers, S. Schelter  
+[![](images/icons/file.svg){width=18px} PDF](pdfs/serenade_ecir2022.pdf)
+<!-- [![](images/icons/code.svg){width=18px} Code](https://github.com/bkersbergen/illoominate)
+[![](images/icons/video.svg){width=18px} Video](https://youtube.com/watch?v=abc123xyz) -->
+
+4. **Serenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale.** 
+   _ACM SIGMOD 2022_  
+   B. Kersbergen, O. Sprangers, S. Schelter  
+[![](images/icons/file.svg){width=18px} PDF](pdfs/serenade_sigmod2022.pdf)
+[![](images/icons/code.svg){width=18px} Code](https://github.com/bolcom/serenade)
+[![](images/icons/video.svg){width=18px} Video](https://www.youtube.com/watch?v=Nvd61sTeIAY)
+
+5. **Learnings from a Retail Recommendation System on Billions of Interactions at bol.com.**  
+   _IEEE ICDE 2021_  
+   B. Kersbergen, S. Schelter  
+[![](images/icons/file.svg){width=18px} PDF](pdfs/learnings_icde2021.pdf)
+<!-- [![](images/icons/code.svg){width=18px} Code](https://github.com/bkersbergen/illoominate)
+[![](images/icons/video.svg){width=18px} Video](https://youtube.com/watch?v=abc123xyz) -->
+
+
+
+
+## PhD Thesis
+
+**Expanding Boundaries in Scalable Session-Based Recommendations**
+_University of Amsterdam, 2025_
+[![](images/icons/file.svg){width=18px} PDF](pdfs/phd_thesis uva2025.pdf)

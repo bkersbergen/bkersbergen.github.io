@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+---
+
+![](face.jpg){width=150px style="border-radius: 50%;"}
+
+Hi, I’m **Dr. Barrie Kersbergen**, a Staff Scientist at Bol and researcher in recommender systems and probabilistic forecasting.
+
+Welcome to my academic website, here you’ll find my publications, talks, and open-source projects.

@@ -1,0 +1,7 @@
+---
+title: "Contact"
+---
+
+- **Email**: bkersbergen@bol.com  
+- **GitHub**: [bkersbergen](https://github.com/bkersbergen)  
+- **LinkedIn**: [bkersbergen](https://www.linkedin.com/in/barrie-kersbergen-00987a28/)

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Barrie Kersbergen"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Service"
+        href: service.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+
+
