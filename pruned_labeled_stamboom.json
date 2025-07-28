@@ -1,0 +1,654 @@
+{
+  "id": "331077",
+  "name": "Barrie  Kersbergen",
+  "year": "2025",
+  "university": "Universiteit van Amsterdam",
+  "dissertation": "Expanding Boundaries in Scalable Session-Based Recommendations",
+  "advisors": [
+    {
+      "name": "Maarten  de Rijke",
+      "id": "84191"
+    },
+    {
+      "name": "Sebastian  Schelter",
+      "id": "208303"
+    }
+  ],
+  "advisor_trees": [
+    {
+      "id": "84191",
+      "name": "Maarten  de Rijke",
+      "year": "1993",
+      "university": "Universiteit van Amsterdam",
+      "dissertation": "Extending Modal Logic",
+      "advisors": [
+        {
+          "name": "Johan F. A. K. van Benthem",
+          "id": "49682"
+        },
+        {
+          "name": "here",
+          "id": "84191"
+        }
+      ],
+      "advisor_trees": [
+        {
+          "id": "49682",
+          "name": "Johan F. A. K. van Benthem",
+          "year": "1976",
+          "university": "Universiteit van Amsterdam",
+          "dissertation": "Modal Correspondence Theory",
+          "advisors": [
+            {
+              "name": "Martin Hugo Löb",
+              "id": "42265"
+            },
+            {
+              "name": "Steven Karl Thomason",
+              "id": "51455"
+            },
+            {
+              "name": "here",
+              "id": "49682"
+            }
+          ],
+          "advisor_trees": [
+            {
+              "id": "42265",
+              "name": "Martin Hugo Löb",
+              "year": "1953",
+              "university": "University of London",
+              "dissertation": "A Methodological Characterization of Constructive Mathematics",
+              "advisors": [
+                {
+                  "name": "Reuben Louis Goodstein",
+                  "id": "75260"
+                },
+                {
+                  "name": "here",
+                  "id": "42265"
+                }
+              ],
+              "advisor_trees": [
+                {
+                  "id": "75260",
+                  "name": "Reuben Louis Goodstein",
+                  "year": "1946",
+                  "university": "University of London",
+                  "dissertation": "An axiom-free equation calculus",
+                  "advisors": [
+                    {
+                      "name": "Ludwig  Wittgenstein",
+                      "id": "22537"
+                    },
+                    {
+                      "name": "here",
+                      "id": "75260"
+                    }
+                  ],
+                  "advisor_trees": [
+                    {
+                      "id": "22537",
+                      "name": "Ludwig  Wittgenstein",
+                      "year": "1929",
+                      "university": "University of Cambridge",
+                      "dissertation": "Logische-Philosophische Abhandlung (Tractatus Logico-Philosophicus)",
+                      "advisors": [
+                        {
+                          "name": "Bertrand Arthur William Russell",
+                          "id": "66811"
+                        },
+                        {
+                          "name": "Frank Plumpton Ramsey",
+                          "id": "70156"
+                        },
+                        {
+                          "name": "here",
+                          "id": "22537"
+                        }
+                      ],
+                      "advisor_trees": [
+                        {
+                          "id": "66811",
+                          "name": "Bertrand Arthur William Russell",
+                          "year": null,
+                          "university": null,
+                          "dissertation": "",
+                          "advisors": [
+                            {
+                              "name": "Alfred North Whitehead",
+                              "id": "78732"
+                            }
+                          ],
+                          "advisor_trees": [
+                            {
+                              "id": "78732",
+                              "name": "Alfred North Whitehead",
+                              "year": null,
+                              "university": null,
+                              "dissertation": "",
+                              "advisors": [
+                                {
+                                  "name": "Edward John Routh",
+                                  "id": "101929"
+                                },
+                                {
+                                  "name": "here",
+                                  "id": "78732"
+                                }
+                              ],
+                              "advisor_trees": [],
+                              "label": "Alfred North Whitehead"
+                            }
+                          ],
+                          "label": "Bertrand Arthur William Russell"
+                        },
+                        {
+                          "id": "70156",
+                          "name": "Frank Plumpton Ramsey",
+                          "year": null,
+                          "university": null,
+                          "dissertation": "",
+                          "advisors": [],
+                          "advisor_trees": [],
+                          "label": "Frank Plumpton Ramsey"
+                        },
+                        {
+                          "id": "22537",
+                          "name": "Ludwig  Wittgenstein",
+                          "year": "1929",
+                          "university": "University of Cambridge",
+                          "dissertation": "Logische-Philosophische Abhandlung (Tractatus Logico-Philosophicus)",
+                          "advisors": [
+                            {
+                              "name": "Bertrand Arthur William Russell",
+                              "id": "66811"
+                            },
+                            {
+                              "name": "Frank Plumpton Ramsey",
+                              "id": "70156"
+                            },
+                            {
+                              "name": "here",
+                              "id": "22537"
+                            }
+                          ],
+                          "label": "Ludwig  Wittgenstein",
+                          "advisor_trees": []
+                        }
+                      ],
+                      "label": "Ludwig  Wittgenstein"
+                    },
+                    {
+                      "id": "75260",
+                      "name": "Reuben Louis Goodstein",
+                      "year": "1946",
+                      "university": "University of London",
+                      "dissertation": "An axiom-free equation calculus",
+                      "advisors": [
+                        {
+                          "name": "Ludwig  Wittgenstein",
+                          "id": "22537"
+                        },
+                        {
+                          "name": "here",
+                          "id": "75260"
+                        }
+                      ],
+                      "label": "Reuben Louis Goodstein",
+                      "advisor_trees": []
+                    }
+                  ],
+                  "label": "Reuben Louis Goodstein"
+                },
+                {
+                  "id": "42265",
+                  "name": "Martin Hugo Löb",
+                  "year": "1953",
+                  "university": "University of London",
+                  "dissertation": "A Methodological Characterization of Constructive Mathematics",
+                  "advisors": [
+                    {
+                      "name": "Reuben Louis Goodstein",
+                      "id": "75260"
+                    },
+                    {
+                      "name": "here",
+                      "id": "42265"
+                    }
+                  ],
+                  "label": "Martin Hugo Löb",
+                  "advisor_trees": []
+                }
+              ],
+              "label": "Martin Hugo Löb"
+            },
+            {
+              "id": "51455",
+              "name": "Steven Karl Thomason",
+              "year": "1966",
+              "university": "Cornell University",
+              "dissertation": "The Forcing Method and the Upper Semi-Lattice of Hyperdegrees",
+              "advisors": [
+                {
+                  "name": "Gerald Enoch Sacks",
+                  "id": "22616"
+                }
+              ],
+              "advisor_trees": [
+                {
+                  "id": "22616",
+                  "name": "Gerald Enoch Sacks",
+                  "year": "1961",
+                  "university": "Cornell University",
+                  "dissertation": "On Suborderings of Degrees of Recursive Insolvability",
+                  "advisors": [
+                    {
+                      "name": "J. Barkley (John) Rosser",
+                      "id": "8013"
+                    },
+                    {
+                      "name": "here",
+                      "id": "22616"
+                    }
+                  ],
+                  "advisor_trees": [
+                    {
+                      "id": "8013",
+                      "name": "J. Barkley (John) Rosser",
+                      "year": "1934",
+                      "university": "Princeton University",
+                      "dissertation": "A Mathematical Logic without Variables",
+                      "advisors": [
+                        {
+                          "name": "Alonzo  Church",
+                          "id": "8011"
+                        },
+                        {
+                          "name": "here",
+                          "id": "8013"
+                        }
+                      ],
+                      "advisor_trees": [
+                        {
+                          "id": "8011",
+                          "name": "Alonzo  Church",
+                          "year": "1927",
+                          "university": "Princeton University",
+                          "dissertation": "Alternatives to Zermelo's Assumption",
+                          "advisors": [
+                            {
+                              "name": "Oswald  Veblen",
+                              "id": "805"
+                            },
+                            {
+                              "name": "here",
+                              "id": "8011"
+                            }
+                          ],
+                          "advisor_trees": [
+                            {
+                              "id": "805",
+                              "name": "Oswald  Veblen",
+                              "year": "1903",
+                              "university": "The University of Chicago",
+                              "dissertation": "A System of Axioms for Geometry",
+                              "advisors": [
+                                {
+                                  "name": "E. H. (Eliakim Hastings) Moore",
+                                  "id": "806"
+                                },
+                                {
+                                  "name": "here",
+                                  "id": "805"
+                                }
+                              ],
+                              "advisor_trees": [],
+                              "label": "Oswald  Veblen"
+                            },
+                            {
+                              "id": "8011",
+                              "name": "Alonzo  Church",
+                              "year": "1927",
+                              "university": "Princeton University",
+                              "dissertation": "Alternatives to Zermelo's Assumption",
+                              "advisors": [
+                                {
+                                  "name": "Oswald  Veblen",
+                                  "id": "805"
+                                },
+                                {
+                                  "name": "here",
+                                  "id": "8011"
+                                }
+                              ],
+                              "label": "Alonzo  Church",
+                              "advisor_trees": []
+                            }
+                          ],
+                          "label": "Alonzo  Church"
+                        },
+                        {
+                          "id": "8013",
+                          "name": "J. Barkley (John) Rosser",
+                          "year": "1934",
+                          "university": "Princeton University",
+                          "dissertation": "A Mathematical Logic without Variables",
+                          "advisors": [
+                            {
+                              "name": "Alonzo  Church",
+                              "id": "8011"
+                            },
+                            {
+                              "name": "here",
+                              "id": "8013"
+                            }
+                          ],
+                          "label": "J. Barkley (John) Rosser",
+                          "advisor_trees": []
+                        }
+                      ],
+                      "label": "J. Barkley (John) Rosser"
+                    },
+                    {
+                      "id": "22616",
+                      "name": "Gerald Enoch Sacks",
+                      "year": "1961",
+                      "university": "Cornell University",
+                      "dissertation": "On Suborderings of Degrees of Recursive Insolvability",
+                      "advisors": [
+                        {
+                          "name": "J. Barkley (John) Rosser",
+                          "id": "8013"
+                        },
+                        {
+                          "name": "here",
+                          "id": "22616"
+                        }
+                      ],
+                      "label": "Gerald Enoch Sacks",
+                      "advisor_trees": []
+                    }
+                  ],
+                  "label": "Gerald Enoch Sacks"
+                }
+              ],
+              "label": "Steven Karl Thomason"
+            },
+            {
+              "id": "49682",
+              "name": "Johan F. A. K. van Benthem",
+              "year": "1976",
+              "university": "Universiteit van Amsterdam",
+              "dissertation": "Modal Correspondence Theory",
+              "advisors": [
+                {
+                  "name": "Martin Hugo Löb",
+                  "id": "42265"
+                },
+                {
+                  "name": "Steven Karl Thomason",
+                  "id": "51455"
+                },
+                {
+                  "name": "here",
+                  "id": "49682"
+                }
+              ],
+              "label": "Johan F. A. K. van Benthem",
+              "advisor_trees": []
+            }
+          ],
+          "label": "Johan F. A. K. van Benthem"
+        },
+        {
+          "id": "84191",
+          "name": "Maarten  de Rijke",
+          "year": "1993",
+          "university": "Universiteit van Amsterdam",
+          "dissertation": "Extending Modal Logic",
+          "advisors": [
+            {
+              "name": "Johan F. A. K. van Benthem",
+              "id": "49682"
+            },
+            {
+              "name": "here",
+              "id": "84191"
+            }
+          ],
+          "label": "Maarten  de Rijke",
+          "advisor_trees": []
+        }
+      ],
+      "label": "Maarten  de Rijke"
+    },
+    {
+      "id": "208303",
+      "name": "Sebastian  Schelter",
+      "year": null,
+      "university": null,
+      "dissertation": "Skalierbare Datenanalyse in massiv-parallelen Datenflusssystemen",
+      "advisors": [
+        {
+          "name": "Volker  Markl",
+          "id": "208301"
+        },
+        {
+          "name": "here",
+          "id": "208303"
+        }
+      ],
+      "advisor_trees": [
+        {
+          "id": "208301",
+          "name": "Volker  Markl",
+          "year": null,
+          "university": null,
+          "dissertation": "MISTRAL: Processing Relational Queries using a Multidimensional Access Technique",
+          "advisors": [
+            {
+              "name": "Rudolf  Bayer",
+              "id": "4649"
+            },
+            {
+              "name": "here",
+              "id": "208301"
+            }
+          ],
+          "advisor_trees": [
+            {
+              "id": "4649",
+              "name": "Rudolf  Bayer",
+              "year": "1966",
+              "university": "University of Illinois at Urbana-Champaign",
+              "dissertation": "Automorphism Groups and Quotients of Strongly Connected Automata and Monadic Algebras",
+              "advisors": [
+                {
+                  "name": "Franz Edward Hohn",
+                  "id": "4157"
+                },
+                {
+                  "name": "here",
+                  "id": "4649"
+                }
+              ],
+              "advisor_trees": [
+                {
+                  "id": "4157",
+                  "name": "Franz Edward Hohn",
+                  "year": "1940",
+                  "university": "University of Illinois at Urbana-Champaign",
+                  "dissertation": "Curves on Cayley's Dianodal Surface",
+                  "advisors": [
+                    {
+                      "name": "Arthur Byron Coble",
+                      "id": "5647"
+                    },
+                    {
+                      "name": "here",
+                      "id": "4157"
+                    }
+                  ],
+                  "advisor_trees": [
+                    {
+                      "id": "5647",
+                      "name": "Arthur Byron Coble",
+                      "year": "1902",
+                      "university": "The Johns Hopkins University",
+                      "dissertation": "The Relation of the Quartic Curve to Conics",
+                      "advisors": [
+                        {
+                          "name": "Frank  Morley",
+                          "id": "8158"
+                        },
+                        {
+                          "name": "here",
+                          "id": "5647"
+                        }
+                      ],
+                      "advisor_trees": [
+                        {
+                          "id": "8158",
+                          "name": "Frank  Morley",
+                          "year": null,
+                          "university": null,
+                          "dissertation": "(none)",
+                          "advisors": [
+                            {
+                              "name": "here",
+                              "id": "8158"
+                            }
+                          ],
+                          "advisor_trees": [
+                            {
+                              "id": "8158",
+                              "name": "Frank  Morley",
+                              "year": null,
+                              "university": null,
+                              "dissertation": "(none)",
+                              "advisors": [
+                                {
+                                  "name": "here",
+                                  "id": "8158"
+                                }
+                              ],
+                              "label": "Frank  Morley",
+                              "advisor_trees": []
+                            }
+                          ],
+                          "label": "Frank  Morley"
+                        },
+                        {
+                          "id": "5647",
+                          "name": "Arthur Byron Coble",
+                          "year": "1902",
+                          "university": "The Johns Hopkins University",
+                          "dissertation": "The Relation of the Quartic Curve to Conics",
+                          "advisors": [
+                            {
+                              "name": "Frank  Morley",
+                              "id": "8158"
+                            },
+                            {
+                              "name": "here",
+                              "id": "5647"
+                            }
+                          ],
+                          "label": "Arthur Byron Coble",
+                          "advisor_trees": []
+                        }
+                      ],
+                      "label": "Arthur Byron Coble"
+                    },
+                    {
+                      "id": "4157",
+                      "name": "Franz Edward Hohn",
+                      "year": "1940",
+                      "university": "University of Illinois at Urbana-Champaign",
+                      "dissertation": "Curves on Cayley's Dianodal Surface",
+                      "advisors": [
+                        {
+                          "name": "Arthur Byron Coble",
+                          "id": "5647"
+                        },
+                        {
+                          "name": "here",
+                          "id": "4157"
+                        }
+                      ],
+                      "label": "Franz Edward Hohn",
+                      "advisor_trees": []
+                    }
+                  ],
+                  "label": "Franz Edward Hohn"
+                },
+                {
+                  "id": "4649",
+                  "name": "Rudolf  Bayer",
+                  "year": "1966",
+                  "university": "University of Illinois at Urbana-Champaign",
+                  "dissertation": "Automorphism Groups and Quotients of Strongly Connected Automata and Monadic Algebras",
+                  "advisors": [
+                    {
+                      "name": "Franz Edward Hohn",
+                      "id": "4157"
+                    },
+                    {
+                      "name": "here",
+                      "id": "4649"
+                    }
+                  ],
+                  "label": "Rudolf  Bayer",
+                  "advisor_trees": []
+                }
+              ],
+              "label": "Rudolf  Bayer"
+            },
+            {
+              "id": "208301",
+              "name": "Volker  Markl",
+              "year": null,
+              "university": null,
+              "dissertation": "MISTRAL: Processing Relational Queries using a Multidimensional Access Technique",
+              "advisors": [
+                {
+                  "name": "Rudolf  Bayer",
+                  "id": "4649"
+                },
+                {
+                  "name": "here",
+                  "id": "208301"
+                }
+              ],
+              "label": "Volker  Markl",
+              "advisor_trees": []
+            }
+          ],
+          "label": "Volker  Markl"
+        },
+        {
+          "id": "208303",
+          "name": "Sebastian  Schelter",
+          "year": null,
+          "university": null,
+          "dissertation": "Skalierbare Datenanalyse in massiv-parallelen Datenflusssystemen",
+          "advisors": [
+            {
+              "name": "Volker  Markl",
+              "id": "208301"
+            },
+            {
+              "name": "here",
+              "id": "208303"
+            }
+          ],
+          "label": "Sebastian  Schelter",
+          "advisor_trees": []
+        }
+      ],
+      "label": "Sebastian  Schelter"
+    }
+  ],
+  "label": "Barrie  Kersbergen"
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Academic Genealogy Tree</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      background: #fdfdfd;
+    }
+    svg {
+      width: 100%;
+      height: 100vh;
+    }
+    .node circle {
+      fill: #555;
+      r: 4;
+    }
+    .node text {
+      font-size: 11px;
+    }
+    .node.important text {
+      fill: #d57f00;
+      font-weight: bold;
+    }
+    .node.important circle {
+      fill: #d57f00;
+    }
+    .link {
+      fill: none;
+      stroke: #ccc;
+      stroke-width: 1.5px;
+    }
+  </style>
+</head>
+<body>
+<svg></svg>
+<script>
+fetch("../stamboom.json")
+  .then(response => response.json())
+  .then(data => {
+    const svg = d3.select("svg"),
+          width = +svg.node().clientWidth,
+          height = +svg.node().clientHeight;
+
+    const g = svg.append("g");
+
+    const zoom = d3.zoom().on("zoom", (event) => {
+      g.attr("transform", event.transform);
+    });
+    svg.call(zoom);
+
+    const root = d3.hierarchy(data, d => d.advisor_trees);
+    root.x0 = 0;
+    root.y0 = 0;
+
+    const treeLayout = d3.tree().nodeSize([20, 180]);
+
+    update(root); // no collapseAll()
+
+    function update(source) {
+      treeLayout(root);
+
+      const nodes = root.descendants();
+      const links = root.links();
+
+      nodes.forEach(d => d.y = d.depth * 180);
+
+      const node = g.selectAll(".node")
+        .data(nodes, d => d.data.id || d.data.name);
+
+      const nodeEnter = node.enter().append("g")
+        .attr("class", d => "node" + (d.data.label?.includes("⭐") ? " important" : ""))
+        .attr("transform", d => `translate(${source.y0},${source.x0})`)
+        .on("click", (event, d) => {
+          if (d.children) {
+            d._children = d.children;
+            d.children = null;
+          } else {
+            d.children = d._children;
+            d._children = null;
+          }
+          update(d);
+        });
+
+      nodeEnter.append("circle").attr("r", 4);
+
+      nodeEnter.append("text")
+        .attr("dy", 3)
+        .attr("x", d => d.children || d._children ? -8 : 8)
+        .attr("text-anchor", d => d.children || d._children ? "end" : "start")
+        .text(d => d.data.label || d.data.name);
+
+      node.merge(nodeEnter).transition().duration(500)
+        .attr("transform", d => `translate(${d.y},${d.x})`);
+
+      node.exit().transition().duration(500).remove();
+
+      const link = g.selectAll(".link")
+        .data(links, d => d.target.data.id || d.target.data.name);
+
+      link.enter().insert("path", "g")
+        .attr("class", "link")
+        .attr("d", d => {
+          const o = {x: source.x0, y: source.y0};
+          return diagonal({source: o, target: o});
+        })
+        .transition().duration(500)
+        .attr("d", diagonal);
+
+      link.transition().duration(500).attr("d", diagonal);
+      link.exit().transition().duration(500).remove();
+
+      nodes.forEach(d => {
+        d.x0 = d.x;
+        d.y0 = d.y;
+      });
+    }
+
+    function diagonal(d) {
+      return `M${d.source.y},${d.source.x}
+              C${(d.source.y + d.target.y) / 2},${d.source.x}
+               ${(d.source.y + d.target.y) / 2},${d.target.x}
+               ${d.target.y},${d.target.x}`;
+    }
+  });
+</script>
+</body>
+</html>

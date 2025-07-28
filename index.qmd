@@ -13,3 +13,8 @@ My PhD research expanded the boundaries of scalable session-based recommendation
 In my dissertation, _Expanding Boundaries in Scalable Session-Based Recommendations_, I demonstrate that nearest-neighbor methods can rival or even outperform deep learning models on large-scale datasets, especially under production constraints. I developed scalable algorithms for low-latency inference, robust benchmarking under resource limits, and efficient data debugging using Shapley values for data attribution.
 
 This research delivered impactful solutions for large-scale recommender systems and laid the groundwork for more sustainable, efficient, and trustworthy recommendation technologies in practice.
+
+
+## 📜 My Academic Genealogy
+
+<iframe src="stamboom/tree.html" width="100%" height="850" frameborder="0"></iframe>
