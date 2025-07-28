@@ -25,7 +25,7 @@ B. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter
 <!-- [![](images/icons/code.svg){width=18px} Code](https://github.com/bkersbergen/illoominate)
 [![](images/icons/video.svg){width=18px} Video](https://youtube.com/watch?v=abc123xyz) -->
 
-4. **Serenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale.** 
+4. **Serenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale.**  
    _ACM SIGMOD 2022_  
    B. Kersbergen, O. Sprangers, S. Schelter  
 [![](images/icons/file.svg){width=18px} PDF](pdfs/serenade_sigmod2022.pdf)
