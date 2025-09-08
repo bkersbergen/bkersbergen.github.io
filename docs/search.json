@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching and Outreach",
-    "section": "",
-    "text": "Invited talk on AI and Recommender Systems at Bol internal conference\nGuest teaching at University of Amsterdam on interpretability in ML"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -28,11 +21,11 @@
     "text": "GitHub: bkersbergen\nLinkedIn: bkersbergen"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching and Outreach",
     "section": "",
-    "text": "Hi, I’m Dr. Barrie Kersbergen, a Staff Scientist at Bol and researcher working on recommender systems and probabilistic forecasting.\nWelcome to my academic website, here you’ll find my publications, talks, and open-source projects.\nMy PhD research expanded the boundaries of scalable session-based recommendation systems for large-scale e-commerce, addressing practical challenges like massive product catalogs, billions of interactions, sparse behavior data, and data quality issues. Conducted in close collaboration with Bol, a leading European e-commerce platform, this work bridges academic research and real-world deployment.\nIn my dissertation, Expanding Boundaries in Scalable Session-Based Recommendations, I demonstrate that nearest-neighbor methods can rival or even outperform deep learning models on large-scale datasets, especially under production constraints. I developed scalable algorithms for low-latency inference, robust benchmarking under resource limits, and efficient data debugging using Shapley values for data attribution.\nThis research delivered impactful solutions for large-scale recommender systems and laid the groundwork for more sustainable, efficient, and trustworthy recommendation technologies in practice."
+    "text": "Invited talk on AI and Recommender Systems at Bol internal conference\nGuest teaching at University of Amsterdam on interpretability in ML"
   },
   {
     "objectID": "service.html",
@@ -40,5 +33,12 @@
     "title": "Professional Service",
     "section": "",
     "text": "Open-source contributor to TRP Forecasting stack"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi, I’m Dr. Barrie Kersbergen, a Staff Scientist at Bol and researcher working on recommender systems and probabilistic forecasting.\nWelcome to my academic website, here you’ll find my publications, talks, and open-source projects.\nMy PhD research expanded the boundaries of scalable session-based recommendation systems for large-scale e-commerce, addressing practical challenges like massive product catalogs, billions of interactions, sparse behavior data, and data quality issues. Conducted in close collaboration with Bol, a leading European e-commerce platform, this work bridges academic research and real-world deployment.\nIn my dissertation, Expanding Boundaries in Scalable Session-Based Recommendations, I demonstrate that nearest-neighbor methods can rival or even outperform deep learning models on large-scale datasets, especially under production constraints. I developed scalable algorithms for low-latency inference, robust benchmarking under resource limits, and efficient data debugging using Shapley values for data attribution.\nThis research delivered impactful solutions for large-scale recommender systems and laid the groundwork for more sustainable, efficient, and trustworthy recommendation technologies in practice."
   }
 ]

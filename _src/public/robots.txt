@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://bkersbergen.github.io/sitemap.xml
