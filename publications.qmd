@@ -47,6 +47,8 @@ B. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter
 **Expanding Boundaries in Scalable Session-Based Recommendations**  
 _University of Amsterdam, 2025_  
 [![](images/icons/file.svg){width=18px} PDF](pdfs/phd_thesis uva2025.pdf)
+[![](images/icons/archive.svg){width=18px} UvA](https://dare.uva.nl/search?identifier=01b24940-4388-4cc8-af66-735c5c55bcdf)
+
 
 
 
