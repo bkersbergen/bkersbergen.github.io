@@ -1,3 +1,5 @@
 /.quarto/
 .idea
 
+
+**/*.quarto_ipynb

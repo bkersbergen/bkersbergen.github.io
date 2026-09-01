@@ -2,4 +2,10 @@
 title: "Professional Service"
 ---
 
-- Open-source contributor to TRP Forecasting stack
+- **2024** - Research Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024). [Conference](https://dsaa2024.dsaa.co/)
+- **2023** - Program Committee member, Industry Day, ACM International Conference on Information and Knowledge Management (CIKM 2023). [Conference](https://uobevents.eventsair.com/cikm2023/)
+- **2023** - Research Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2023). [Conference](https://conferences.sigappfr.org/dsaa2023/)
+- **2022** - Research Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2022). [Conference](http://dsaa2022.dsaa.co/)
+- **2022** - Program Committee member, Industrial Track, EDBT 2022. [Conference](https://conferences.inf.ed.ac.uk/edbticdt2022/)
+- **2021** - Industry Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2021). [Conference](https://dsaa2021.dcc.fc.up.pt/)
+- **2020** - Session chair, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020). [Conference](https://ecmlpkdd2020.net/)
