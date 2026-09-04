@@ -5,6 +5,7 @@ title: "Publications"
 1. **Illoominate--Data Shapley Values for Debugging Neighborhood-based Recommender Systems**  
    _ACM Transactions on Recommender Systems, 2026_  
    B. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter  
+[![](images/icons/file.svg){width=18px} PDF](https://dl.acm.org/doi/epdf/10.1145/3828670)
 [![](images/icons/code.svg){width=18px} Code](https://github.com/bkersbergen/illoominate)
 
 

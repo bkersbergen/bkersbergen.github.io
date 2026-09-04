@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Illoominate–Data Shapley Values for Debugging Neighborhood-based Recommender Systems\nACM Transactions on Recommender Systems, 2026\nB. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter\n Code\nScalable Data Debugging for Neighborhood-based Recommendation with Data Shapley Values\nACM RecSys 2025 (Spotlight Oral)\nB. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter\n PDF  Code\nETUDE - Evaluating the Inference Latency of Session-Based Models at Scale\nIEEE ICDE 2024\nB. Kersbergen, O. Sprangers, F. Kootte, S. Guha, M. de Rijke, S. Schelter\n PDF  Code\nServing Low-Latency Session-Based Recommendations at bol.com\nECIR 2022 (industry talk)\nB. Kersbergen, O. Sprangers, S. Schelter\n PDF\nSerenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale.\nACM SIGMOD 2022\nB. Kersbergen, O. Sprangers, S. Schelter\n PDF  Code  Video\nLearnings from a Retail Recommendation System on Billions of Interactions at bol.com.\nIEEE ICDE 2021\nB. Kersbergen, S. Schelter\n PDF"
-  },
-  {
-    "objectID": "publications.html#phd-thesis",
-    "href": "publications.html#phd-thesis",
-    "title": "Publications",
-    "section": "PhD Thesis",
-    "text": "PhD Thesis\nExpanding Boundaries in Scalable Session-Based Recommendations\nUniversity of Amsterdam, 2025\n PDF  UvA"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "GitHub: bkersbergen\nLinkedIn: bkersbergen"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching, Talks, and Outreach",
     "section": "",
     "text": "Teaching assistant for the Data Preparation for Machine Learning course for master’s students at the University of Amsterdam and Vrije Universiteit Amsterdam (2024).\nTeaching assistant for the Big Data course for master’s students at the University of Amsterdam (2022)."
-  },
-  {
-    "objectID": "service.html",
-    "href": "service.html",
-    "title": "Professional Service",
-    "section": "",
-    "text": "2024 - Research Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024). Conference\n2023 - Program Committee member, Industry Day, ACM International Conference on Information and Knowledge Management (CIKM 2023). Conference\n2023 - Research Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2023). Conference\n2022 - Research Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2022). Conference\n2022 - Program Committee member, Industrial Track, EDBT 2022. Conference\n2021 - Industry Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2021). Conference\n2020 - Session chair, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020). Conference"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Hi, I’m Dr. Barrie Kersbergen.\nMy work focuses on machine learning for large-scale e-commerce, particularly decision-making under uncertainty, probabilistic forecasting, and recommender systems. I currently work as a Staff Scientist at Bol, combining research, technical innovation, and technical leadership.\nA central theme in my current work is how to move from predicting what will happen to deciding what to do when the future is uncertain. This includes probabilistic forecasting, uncertainty quantification and calibration, scenario-based planning, and methods that connect predictions to operational decisions.\nAlongside my research, I provide technical leadership on complex, high-impact problems. Much of that complexity is not only technical: it comes from shaping problem understanding, challenging existing assumptions, and setting or changing technical direction when the right path is not yet clear.\nMy PhD research focused on scalable session-based recommendation systems for large-scale e-commerce. I studied practical challenges such as massive product catalogs, billions of interactions, sparse behavioral data, strict latency requirements, and data quality issues. Conducted in close collaboration with Bol, this work combined academic research with the constraints of real-world production systems.\nIn my dissertation, Expanding Boundaries in Scalable Session-Based Recommendations, I show that carefully designed nearest-neighbor methods can rival or outperform deep learning models on large-scale recommendation tasks, particularly when computational and production constraints are taken into account. This work also includes resource-aware benchmarking and scalable data debugging using Shapley values for data attribution.\nAcross these areas, I am particularly interested in methods that are not only accurate, but also scalable, uncertainty-aware, and useful for real-world decisions.\nThis website contains my publications, research, teaching, and other academic and professional work."
   },
   {
     "objectID": "teaching.html#teaching",
@@ -61,5 +26,40 @@
     "title": "Teaching, Talks, and Outreach",
     "section": "Research and industry outreach",
     "text": "Research and industry outreach\n\nPresented at RecSys 2025 on the KMC-Shapley algorithm for calculating Data Shapley values and optimizing sequential k-nearest-neighbor recommendation systems. Illoominate on GitHub\nPresented our work on ETUDE - Evaluating the Inference Latency of Session-Based Recommendation Models at Scale at the IEEE International Conference on Data Engineering (ICDE 2024). ICDE 2024\nPresented Serenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale at SIGMOD 2022. SIGMOD\nPresented work on scalable session-based recommendation at the ECIR 2022 industry day. ECIR\nPresented work on low-latency recommendations at the DBDBD 2021 workshop. DBDBD\nRan a recommender-systems workshop for data scientists at Albert Heijn, including a live demonstration of Serenade (2022).\nPresented studies on improving the predictive performance of bol.com’s recommender system at the Cologne AI and Machine Learning meetup (2021). Meetup\nJoined the bol.com Techlab podcast to discuss the AI for Retail Lab and recommender systems (2021). Podcast\nParticipated in the ICAI Day poster session on AI and climate change (2022). ICAI Day\nOpen-sourced Serenade, a Rust-based k-nearest-neighbor recommender system powering product recommendations at bol.com (2022). Serenade on GitHub"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Illoominate–Data Shapley Values for Debugging Neighborhood-based Recommender Systems\nACM Transactions on Recommender Systems, 2026\nB. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter\n PDF  Code\nScalable Data Debugging for Neighborhood-based Recommendation with Data Shapley Values\nACM RecSys 2025 (Spotlight Oral)\nB. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter\n PDF  Code\nETUDE - Evaluating the Inference Latency of Session-Based Models at Scale\nIEEE ICDE 2024\nB. Kersbergen, O. Sprangers, F. Kootte, S. Guha, M. de Rijke, S. Schelter\n PDF  Code\nServing Low-Latency Session-Based Recommendations at bol.com\nECIR 2022 (industry talk)\nB. Kersbergen, O. Sprangers, S. Schelter\n PDF\nSerenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale.\nACM SIGMOD 2022\nB. Kersbergen, O. Sprangers, S. Schelter\n PDF  Code  Video\nLearnings from a Retail Recommendation System on Billions of Interactions at bol.com.\nIEEE ICDE 2021\nB. Kersbergen, S. Schelter\n PDF"
+  },
+  {
+    "objectID": "publications.html#phd-thesis",
+    "href": "publications.html#phd-thesis",
+    "title": "Publications",
+    "section": "PhD Thesis",
+    "text": "PhD Thesis\nExpanding Boundaries in Scalable Session-Based Recommendations\nUniversity of Amsterdam, 2025\n PDF  UvA"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "GitHub: bkersbergen\nLinkedIn: bkersbergen"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi, I’m Dr. Barrie Kersbergen.\nMy work focuses on machine learning for large-scale e-commerce, particularly decision-making under uncertainty, probabilistic forecasting, and recommender systems. I currently work as a Staff Scientist at Bol, combining research, technical innovation, and technical leadership.\nA central theme in my current work is how to move from predicting what will happen to deciding what to do when the future is uncertain. This includes probabilistic forecasting, uncertainty quantification and calibration, scenario-based planning, and methods that connect predictions to operational decisions.\nAlongside my research, I provide technical leadership on complex, high-impact problems. Much of that complexity is not only technical: it comes from shaping problem understanding, challenging existing assumptions, and setting or changing technical direction when the right path is not yet clear.\nMy PhD research focused on scalable session-based recommendation systems for large-scale e-commerce. I studied practical challenges such as massive product catalogs, billions of interactions, sparse behavioral data, strict latency requirements, and data quality issues. Conducted in close collaboration with Bol, this work combined academic research with the constraints of real-world production systems.\nIn my dissertation, Expanding Boundaries in Scalable Session-Based Recommendations, I show that carefully designed nearest-neighbor methods can rival or outperform deep learning models on large-scale recommendation tasks, particularly when computational and production constraints are taken into account. This work also includes resource-aware benchmarking and scalable data debugging using Shapley values for data attribution.\nAcross these areas, I am particularly interested in methods that are not only accurate, but also scalable, uncertainty-aware, and useful for real-world decisions.\nThis website contains my publications, research, teaching, and other academic and professional work."
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Professional Service",
+    "section": "",
+    "text": "2024 - Research Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024). Conference\n2023 - Program Committee member, Industry Day, ACM International Conference on Information and Knowledge Management (CIKM 2023). Conference\n2023 - Research Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2023). Conference\n2022 - Research Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2022). Conference\n2022 - Program Committee member, Industrial Track, EDBT 2022. Conference\n2021 - Industry Track Program Committee member, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2021). Conference\n2020 - Session chair, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020). Conference"
   }
 ]
