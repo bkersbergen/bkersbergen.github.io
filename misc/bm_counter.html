@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="robots" content="noindex, nofollow">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>B&M Counter</title>
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: white;
+      color: #333;
+    }
+
+    #counter {
+      text-align: center;
+      font-family: "Courier New", Courier, monospace;
+      font-size: 4rem;
+      line-height: 1.35;
+      font-weight: 400;
+    }
+
+    .unit {
+      display: block;
+    }
+
+    @media (max-width: 600px) {
+      #counter {
+        font-size: 2.8rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="counter">
+    <span class="unit" id="days"></span>
+    <span class="unit" id="hours"></span>
+    <span class="unit" id="minutes"></span>
+    <span class="unit" id="seconds"></span>
+  </div>
+
+  <script>
+    const start = new Date("2005-08-18T16:00:00+02:00");
+
+    function updateCounter() {
+      const diff = Date.now() - start.getTime();
+      const totalSeconds = Math.floor(diff / 1000);
+
+      const days = Math.floor(totalSeconds / 86400);
+      const hours = Math.floor((totalSeconds % 86400) / 3600);
+      const minutes = Math.floor((totalSeconds % 3600) / 60);
+      const seconds = totalSeconds % 60;
+
+      document.getElementById("days").textContent =
+        `${days} ${days === 1 ? "day" : "days"}`;
+
+      document.getElementById("hours").textContent =
+        `${hours} ${hours === 1 ? "hour" : "hours"}`;
+
+      document.getElementById("minutes").textContent =
+        `${minutes} ${minutes === 1 ? "minute" : "minutes"}`;
+
+      document.getElementById("seconds").textContent =
+        `${seconds} ${seconds === 1 ? "second" : "seconds"}`;
+    }
+
+    updateCounter();
+    setInterval(updateCounter, 1000);
+  </script>
+
+</body>
+</html>
