@@ -18,4 +18,5 @@ In my dissertation, *Expanding Boundaries in Scalable Session-Based Recommendati
 
 Across these areas, I am particularly interested in methods that are not only accurate, but also scalable, uncertainty-aware, and useful for real-world decisions.
 
+
 This website contains my publications, research, teaching, and other academic and professional work.
