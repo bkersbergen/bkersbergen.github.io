@@ -6,8 +6,6 @@ title: "Welcome"
 
 Hi, I’m Dr. Barrie Kersbergen.
 
-Hi, I’m Dr. Barrie Kersbergen.
-
 My work spans machine learning and decision science for e-commerce at scale, with a particular focus on decision-making under uncertainty, probabilistic forecasting, and recommender systems. I currently work as a Staff Scientist at Bol, combining research, technical innovation, and scientific and technical leadership.
 
 A central theme in my current work is how to move from predicting what will happen to deciding what to do when the future is uncertain.
