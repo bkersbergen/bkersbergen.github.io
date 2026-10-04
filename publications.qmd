@@ -13,6 +13,8 @@ _ACM RecSys 2025 (Spotlight Oral)_
 B. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter  
 [![](images/icons/file.svg){width=18px} PDF](pdfs/scalable_shapley_recsys2025.pdf)
 [![](images/icons/code.svg){width=18px} Code](https://github.com/bkersbergen/illoominate)
+[![](images/icons/video.svg){width=18px} Video](https://www.youtube.com/watch?v=ywLLdUfKp_k&list=PLaZufLfJumb_-DzL9TYZwDS3sN4oznEia&index=21)
+[![](images/icons/slides.svg){width=18px} Slides](https://slideslive.com/39045830/scalable-data-debugging-for-neighborhoodbased-recommendation-with-data-shapley-values)
 
 3. **Expanding Boundaries in Scalable Session-Based Recommendations**  
    _PhD thesis, University of Amsterdam, 2025_  
