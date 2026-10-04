@@ -6,17 +6,16 @@ title: "Welcome"
 
 Hi, I’m Dr. Barrie Kersbergen.
 
-My work spans machine learning and decision science for e-commerce at scale, with a particular focus on decision-making under uncertainty, probabilistic forecasting, and recommender systems. I currently work as a Staff Scientist at Bol, combining research, technical innovation, and scientific and technical leadership.
+I work on complex technical and scientific projects in large-scale e-commerce, particularly where the problem, the right abstraction, or the technical direction is not yet clear. My work combines technical leadership, machine learning, decision science, and applied research.
 
-A central theme in my current work is how to move from predicting what will happen to deciding what to do when the future is uncertain.
+A major focus of my current work is decision-making under uncertainty: moving from predicting what will happen to deciding what to do when the future is uncertain. This includes probabilistic forecasting, uncertainty quantification and calibration, scenario-based planning, and methods that connect predictions to operational decisions.
 
-Alongside my research, I work on complex problems where the problem itself, the right abstraction, or the technical direction is not yet clear. This involves bringing together different perspectives, challenging assumptions, developing new approaches, and providing technical direction that can be translated into practice and used by others.
+Much of my work starts before there is a well-defined technical problem to solve. It involves bringing together different perspectives, challenging assumptions, developing new approaches, and setting technical direction that can be translated into practice and used by others.
 
-My PhD research focused on scalable session-based recommendation systems for e-commerce. I studied practical challenges such as massive product catalogs, billions of interactions, sparse behavioral data, strict latency requirements, and data quality issues. Conducted in close collaboration with Bol, this work combined academic research with the constraints of real-world production systems.
+My academic work has focused primarily on recommender systems and machine learning for e-commerce. My PhD research investigated scalable session-based recommendation under real-world constraints such as massive product catalogs, billions of interactions, sparse behavioral data, strict latency requirements, and data quality issues.
 
-In my dissertation, *Expanding Boundaries in Scalable Session-Based Recommendations*, I show that carefully designed nearest-neighbor methods can rival or outperform deep learning models on large-scale recommendation tasks, particularly when computational and production constraints are taken into account. This work also includes resource-aware benchmarking and scalable data debugging using Shapley values for data attribution.
+In my PhD thesis, *Expanding Boundaries in Scalable Session-Based Recommendations*, I show that carefully designed nearest-neighbor methods can rival or outperform deep learning approaches on large-scale recommendation tasks, particularly when computational and production constraints are taken into account. The work also covers resource-aware benchmarking and scalable data debugging and attribution using Shapley values estimation.
 
-Across these areas, I am particularly interested in methods that are not only accurate, but also scalable, uncertainty-aware, and useful for real-world decisions.
-
+Across these areas, I am particularly interested in methods that are not only technically strong, but also scalable, uncertainty-aware, and useful for real-world decisions.
 
 This website contains my publications, research, teaching, and other academic and professional work.
