@@ -14,7 +14,7 @@ My work combines technical leadership, machine learning, decision science, and a
 
 My academic work has focused primarily on recommender systems and machine learning for e-commerce. My PhD research investigated scalable session-based recommendation under real-world constraints such as massive product catalogs, billions of interactions, sparse behavioral data, strict latency requirements, and data quality issues.
 
-In my PhD thesis, *Expanding Boundaries in Scalable Session-Based Recommendations*, I show that carefully designed nearest-neighbor methods can rival or outperform deep learning approaches on large-scale recommendation tasks, particularly when computational and production constraints are taken into account. The work also covers resource-aware benchmarking and scalable data debugging and attribution using Shapley values.
+In my PhD thesis, *Expanding Boundaries in Scalable Session-Based Recommendations*, I show that well designed nearest-neighbor algorithms can rival or outperform deep learning approaches on large-scale recommendation tasks, particularly when computational and production constraints are taken into account. The work also covers resource-aware benchmarking and scalable data debugging and attribution using Shapley values.
 
 Across these areas, I am particularly interested in methods that are not only technically strong, but also scalable, uncertainty-aware, and useful for real-world decisions.
 
