@@ -8,17 +8,17 @@ title: "Publications"
 [![](images/icons/file.svg){width=18px} PDF](https://dl.acm.org/doi/epdf/10.1145/3828670)
 [![](images/icons/code.svg){width=18px} Code](https://github.com/bkersbergen/illoominate)
 
-2. **Expanding Boundaries in Scalable Session-Based Recommendations**  
-   _PhD thesis, University of Amsterdam, 2025_  
-   B. Kersbergen  
-[![](images/icons/file.svg){width=18px} PDF](pdfs/phd_thesis uva2025.pdf)
-[![](images/icons/archive.svg){width=18px} UvA](https://dare.uva.nl/search?identifier=01b24940-4388-4cc8-af66-735c5c55bcdf)
-
-3. **Scalable Data Debugging for Neighborhood-based Recommendation with Data Shapley Values**    
+2. **Scalable Data Debugging for Neighborhood-based Recommendation with Data Shapley Values**    
 _ACM RecSys 2025 (Spotlight Oral)_  
 B. Kersbergen, O. Sprangers, B. Karlaš, M. de Rijke, S. Schelter  
 [![](images/icons/file.svg){width=18px} PDF](pdfs/scalable_shapley_recsys2025.pdf)
 [![](images/icons/code.svg){width=18px} Code](https://github.com/bkersbergen/illoominate)
+
+3. **Expanding Boundaries in Scalable Session-Based Recommendations**  
+   _PhD thesis, University of Amsterdam, 2025_  
+   B. Kersbergen  
+[![](images/icons/file.svg){width=18px} PDF](pdfs/phd_thesis uva2025.pdf)
+[![](images/icons/archive.svg){width=18px} UvA](https://dare.uva.nl/search?identifier=01b24940-4388-4cc8-af66-735c5c55bcdf)
 
 4. **ETUDE - Evaluating the Inference Latency of Session-Based Models at Scale**  
    _IEEE ICDE 2024_  
