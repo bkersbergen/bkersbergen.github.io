@@ -6,7 +6,7 @@ title: "Welcome"
 
 Hi, I’m Dr. Barrie Kersbergen.
 
-I work on complex, cross-organizational problems in large-scale e-commerce, particularly where the problem itself, the right abstraction, or the technical direction is not yet clear. My work often involves bringing together perspectives across teams and disciplines, challenging assumptions, developing new approaches, and setting technical direction that can be translated into practice and used by others.
+I work on technical cross-organizational problems in large-scale e-commerce, particularly where the problem itself, the right abstraction, or the technical direction is not yet clear. My work often involves bringing together perspectives across teams and disciplines, challenging assumptions, developing new approaches, and setting technical direction that can be translated into practice and used by others.
 
 A major focus of my current work is decision-making under uncertainty: moving from predicting what will happen to deciding what to do when the future is uncertain. This includes probabilistic forecasting, uncertainty quantification and calibration, scenario-based planning, and methods that connect predictions to operational decisions.
 
